@@ -1,0 +1,20 @@
+C:\Users\Apri Zal\source\repos\UjianAkhirSemesterPemrogramanII\UjianAkhirSemesterPemrogramanII\bin\Debug\net5.0-windows\Ujian Akhir Semester Pemrograman II.exe
+C:\Users\Apri Zal\source\repos\UjianAkhirSemesterPemrogramanII\UjianAkhirSemesterPemrogramanII\bin\Debug\net5.0-windows\Ujian Akhir Semester Pemrograman II.deps.json
+C:\Users\Apri Zal\source\repos\UjianAkhirSemesterPemrogramanII\UjianAkhirSemesterPemrogramanII\bin\Debug\net5.0-windows\Ujian Akhir Semester Pemrograman II.runtimeconfig.json
+C:\Users\Apri Zal\source\repos\UjianAkhirSemesterPemrogramanII\UjianAkhirSemesterPemrogramanII\bin\Debug\net5.0-windows\Ujian Akhir Semester Pemrograman II.runtimeconfig.dev.json
+C:\Users\Apri Zal\source\repos\UjianAkhirSemesterPemrogramanII\UjianAkhirSemesterPemrogramanII\bin\Debug\net5.0-windows\Ujian Akhir Semester Pemrograman II.dll
+C:\Users\Apri Zal\source\repos\UjianAkhirSemesterPemrogramanII\UjianAkhirSemesterPemrogramanII\bin\Debug\net5.0-windows\ref\Ujian Akhir Semester Pemrograman II.dll
+C:\Users\Apri Zal\source\repos\UjianAkhirSemesterPemrogramanII\UjianAkhirSemesterPemrogramanII\bin\Debug\net5.0-windows\Ujian Akhir Semester Pemrograman II.pdb
+C:\Users\Apri Zal\source\repos\UjianAkhirSemesterPemrogramanII\UjianAkhirSemesterPemrogramanII\obj\Debug\net5.0-windows\Ujian Akhir Semester Pemrograman II.vbprojAssemblyReference.cache
+C:\Users\Apri Zal\source\repos\UjianAkhirSemesterPemrogramanII\UjianAkhirSemesterPemrogramanII\obj\Debug\net5.0-windows\UjianAkhirSemesterPemrogramanII.Resources.resources
+C:\Users\Apri Zal\source\repos\UjianAkhirSemesterPemrogramanII\UjianAkhirSemesterPemrogramanII\obj\Debug\net5.0-windows\UjianAkhirSemesterPemrogramanII.SplashScreen.resources
+C:\Users\Apri Zal\source\repos\UjianAkhirSemesterPemrogramanII\UjianAkhirSemesterPemrogramanII\obj\Debug\net5.0-windows\Ujian Akhir Semester Pemrograman II.vbproj.GenerateResource.cache
+C:\Users\Apri Zal\source\repos\UjianAkhirSemesterPemrogramanII\UjianAkhirSemesterPemrogramanII\obj\Debug\net5.0-windows\Ujian Akhir Semester Pemrograman II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apri Zal\source\repos\UjianAkhirSemesterPemrogramanII\UjianAkhirSemesterPemrogramanII\obj\Debug\net5.0-windows\Ujian Akhir Semester Pemrograman II.AssemblyInfoInputs.cache
+C:\Users\Apri Zal\source\repos\UjianAkhirSemesterPemrogramanII\UjianAkhirSemesterPemrogramanII\obj\Debug\net5.0-windows\Ujian Akhir Semester Pemrograman II.AssemblyInfo.vb
+C:\Users\Apri Zal\source\repos\UjianAkhirSemesterPemrogramanII\UjianAkhirSemesterPemrogramanII\obj\Debug\net5.0-windows\Ujian Akhir Semester Pemrograman II.vbproj.CoreCompileInputs.cache
+C:\Users\Apri Zal\source\repos\UjianAkhirSemesterPemrogramanII\UjianAkhirSemesterPemrogramanII\obj\Debug\net5.0-windows\Ujian Akhir Semester Pemrograman II.dll
+C:\Users\Apri Zal\source\repos\UjianAkhirSemesterPemrogramanII\UjianAkhirSemesterPemrogramanII\obj\Debug\net5.0-windows\ref\Ujian Akhir Semester Pemrograman II.dll
+C:\Users\Apri Zal\source\repos\UjianAkhirSemesterPemrogramanII\UjianAkhirSemesterPemrogramanII\obj\Debug\net5.0-windows\Ujian Akhir Semester Pemrograman II.pdb
+C:\Users\Apri Zal\source\repos\UjianAkhirSemesterPemrogramanII\UjianAkhirSemesterPemrogramanII\obj\Debug\net5.0-windows\Ujian Akhir Semester Pemrograman II.genruntimeconfig.cache
+C:\Users\Apri Zal\source\repos\UjianAkhirSemesterPemrogramanII\UjianAkhirSemesterPemrogramanII\obj\Debug\net5.0-windows\UjianAkhirSemesterPemrogramanII.FormIdealWeight.resources

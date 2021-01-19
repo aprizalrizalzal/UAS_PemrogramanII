@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ujian Akhir Semester Pemrograman II/1.0.0": {
+        "runtime": {
+          "Ujian Akhir Semester Pemrograman II.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ujian Akhir Semester Pemrograman II/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
